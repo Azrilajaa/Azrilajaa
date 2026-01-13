@@ -45,7 +45,7 @@
       Wireshark
     </td>
     <td align="center" width="120">
-      <img src="https://raw.githubusercontent.com/knownsec/AperiSolve/main/logo.png" width="40"/><br/>
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu1Br0nAfj7WjmnPAPRWVA8819QnXGW_o6dw&s" width="40"/><br/>
       Aperisolve
     </td>
     <td align="center" width="120">
@@ -62,19 +62,19 @@
 <table align="center">
   <tr>
     <td align="center" width="120">
-      <img src="https://www.volatilityfoundation.org/wp-content/uploads/2022/09/cropped-favicon-192x192.png" width="40"/><br/>
+      <img src="https://miro.medium.com/1*Ini2Q3kb1xACFMILHrattg.jpeg" width="40"/><br/>
       Volatility
     </td>
     <td align="center" width="120">
-      <img src="https://hex-rays.com/wp-content/uploads/2022/08/ida-logo.png" width="40"/><br/>
+      <img src="https://ctftime.org/media/team/IDA.png" width="40"/><br/>
       IDA
     </td>
     <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/nmap.svg" width="40"/><br/>
+      <img src="https://nmap.org/images/sitelogo-2x.png" width="40"/><br/>
       Nmap
     </td>
     <td align="center" width="120">
-      <img src="https://raw.githubusercontent.com/certtools/intelmq/master/contrib/logos/intelmq.png" width="40"/><br/>
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTho5dUfvL892_G4CpZ9i3I2CTw8cfQhMhB5Q&s" width="40"/><br/>
       IntelMQ
     </td>
   </tr>
@@ -87,20 +87,16 @@
 <table align="center">
   <tr>
     <td align="center" width="120">
-      <img src="https://www.kali.org/tools/john-the-ripper/images/john-the-ripper-logo.svg" width="40"/><br/>
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvws9ZNf6ull3AXbtm48vvUIA-oKYDeSumNA&s" width="40"/><br/>
       John The Ripper
     </td>
     <td align="center" width="120">
-      <img src="https://gchq.github.io/CyberChef/images/cyberchef-logo.png" width="40"/><br/>
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLeLNcwondjh_xYxeZWMKJUdqrsZy668olOg&s" width="40"/><br/>
       CyberChef
     </td>
     <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/python.svg" width="40"/><br/>
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYp6eevBPO-iP745QNbvacS-yjQ1tOtmwlkg&s" width="40"/><br/>
       Sage / Python
-    </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/openssl.svg" width="40"/><br/>
-      OpenSSL
     </td>
   </tr>
 </table>
