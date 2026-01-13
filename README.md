@@ -26,5 +26,9 @@
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/burpsuite.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/wireshark.svg" width="40"/>
   <img src="https://nmap.org/images/sitelogo-2x.png" width="40"/>
+  <img src="https://images.ctfassets.net/3091ajzcmzlr/7er8DWHKODxRy3Z30hfn4d/028d1009ad736a511fc870d4a5a47f5c/_Users_andrewhill_Projects_blog.1password.com_content_posts_2012_1password-is-ready-for-john-the-ripper_johntheripper.png" width="40"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLeLNcwondjh_xYxeZWMKJUdqrsZy668olOg&s" width="40"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-zS3xVyvRn_UhGEp6kAj_m-Yi9FMRv0GRmA&s" width="40"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7oLRDcPHXFh5fBC9vXC__PGejlKr2GZiwxA&s" width="40"/>
 </p>
 
