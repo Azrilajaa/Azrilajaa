@@ -9,7 +9,7 @@
 
 ## 🔐 About Me
 
-- 🛡️ Focus on **Web Exploitation, Binary Exploitation, Cryptography**
+- 🛡️ Focus on **Web Exploitation, Forensics, Cryptography**
 - 🧠 Active **CTF Player**
 - 🐧 Linux daily user
 - 🚀 Learning by breaking things (ethically)
@@ -23,7 +23,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" width="45"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kali-dragon-icon.svg/1200px-Kali-dragon-icon.svg.png" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="45"/>
-  <img src="https://e7.pngegg.com/pngimages/807/725/png-clipart-ubuntu-server-edition-linux-graphics-logo-linux-orange-logo.png" width="45"/>
+  <img src="https://cdn.freebiesupply.com/logos/large/2x/ubuntu-4-logo-png-transparent.png" width="45"/>
 </p>
 
 ---
@@ -98,6 +98,10 @@
     <td align="center" width="120">
       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYp6eevBPO-iP745QNbvacS-yjQ1tOtmwlkg&s" width="40"/><br/>
       Sage / Python
+    </td>
+     <td align="center" width="120">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/ExifTool_logo.svg/1280px-ExifTool_logo.svg.png" width="40"/><br/>
+      ExifTool
     </td>
   </tr>
 </table>
