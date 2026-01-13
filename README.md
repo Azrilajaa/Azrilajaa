@@ -37,11 +37,11 @@
 <table align="center">
   <tr>
     <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/burpsuite.svg" width="40"/><br/>
+      <img src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_99175e3285300056ba7b128cb4f17fa9/burp-suite.png" width="40"/><br/>
       Burp Suite
     </td>
     <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/wireshark.svg" width="40"/><br/>
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO_x-v1yd67oaiiiGLwjctfgBrLhuTZu9kLA&s" width="40"/><br/>
       Wireshark
     </td>
     <td align="center" width="120">
@@ -49,7 +49,7 @@
       Aperisolve
     </td>
     <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/sqlite.svg" width="40"/><br/>
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrv93xkSi6Ttm2AUoTI8JD6LZPjpMWRMq4pw&s" width="40"/><br/>
       SQLMap
     </td>
   </tr>
