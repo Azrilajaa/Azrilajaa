@@ -25,6 +25,6 @@
 <p align="left">
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/burpsuite.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/wireshark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/nmap.svg" width="40"/>
+  <img src="https://nmap.org/images/sitelogo-2x.png" width="40"/>
 </p>
 
