@@ -23,7 +23,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" width="45"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kali-dragon-icon.svg/1200px-Kali-dragon-icon.svg.png" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="45"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Antu_distributor-logo-ubuntu.svg/640px-Antu_distributor-logo-ubuntu.svg.png" width="45"/>
+  <img src="https://e7.pngegg.com/pngimages/807/725/png-clipart-ubuntu-server-edition-linux-graphics-logo-linux-orange-logo.png" width="45"/>
 </p>
 
 ---
