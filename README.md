@@ -9,10 +9,10 @@
 
 ## 🔐 About Me
 
-- 🛡️ Focused on **Web Exploitation, Binary Exploitation, and Cryptography**
+- 🛡️ Focus on **Web Exploitation, Binary Exploitation, Cryptography**
 - 🧠 Active **CTF Player**
-- 🐧 Daily driver: Linux
-- 🚀 Always learning & breaking things (ethically)
+- 🐧 Linux daily user
+- 🚀 Learning by breaking things (ethically)
 
 ---
 
@@ -30,12 +30,11 @@
 ## 🛠️ Security Tools
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/burpsuite.svg" width="42"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/wireshark.svg" width="42"/>
-  <img src="https://nmap.org/images/sitelogo-2x.png" width="42"/>
-  <img src="https://www.kali.org/tools/john-the-ripper/images/john-the-ripper-logo.svg" width="42"/>
-  <img src="https://www.kali.org/tools/hydra/images/hydra-logo.svg" width="42"/>
-  <img src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/burpsuite.svg" width="40" style="filter: invert(1);"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/wireshark.svg" width="40" style="filter: invert(1);"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/nmap.svg" width="40" style="filter: invert(1);"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/metasploit.svg" width="40" style="filter: invert(1);"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/gnubash.svg" width="40" style="filter: invert(1);"/>
 </p>
 
 ---
@@ -43,11 +42,21 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/></a>
+  <a href="https://linkedin.com">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+  <a href="https://twitch.tv">
+    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/>
+  </a>
+  <a href="https://dev.to">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/>
+  </a>
 </p>
 
 ---
@@ -55,11 +64,14 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Azrilajaa&show_icons=true&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Azrilajaa&theme=tokyonight"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Azrilajaa&show_icons=true&theme=tokyonight&hide_border=true"
+    height="170"
+  />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com?user=Azrilajaa&theme=tokyonight&hide_border=true"
+    height="170"
+  />
 </p>
 
 ---
